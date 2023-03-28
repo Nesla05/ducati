@@ -1,0 +1,539 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.head{
+    width: 80%;
+    top: 50px;
+    position: absolute;
+    display: flex;
+    background-color: white;
+    box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+    
+}
+.hea-1{
+    margin-left: 2cm;
+    padding-top: 24px;
+}
+
+.hea-1 a{
+    text-decoration: none;
+    color:#0f0f0f;
+    padding-right: 1cm;
+}
+.hea-2{
+    margin-left: 2cm;
+}
+.hea-3{
+    margin-left: 5cm;
+    padding-top: 24px;
+}
+.hea-3 a{
+    text-decoration: none;
+    color:#0f0f0f;
+    padding-right: 1cm;
+}
+.pos1{
+    position: relative;
+    height: 1cm;
+    background-size: cover;
+    padding-top: 12cm;
+    padding-bottom: 7cm;
+    color: azure;
+    padding-left: 4cm;
+    background-image: url(ducati/ducati-1.jpg);
+}
+.pos1 h1{
+    padding-top: 7px;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+}
+.pos1 h4{
+    color: white;
+}
+#b1{
+    background-color: rgb(223, 27, 27);
+    color: azure;
+    padding: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    margin-left: 27cm;
+    margin-top: 2cm;
+}
+.pos-2 h4{
+    padding-top: 2cm;
+    padding-left: 13cm;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    color: rgb(124, 126, 126);
+    padding-bottom: 2cm;
+}
+.pos-3{
+    display: flex;
+    margin-left: 2.5cm;
+    height: 8.5cm;
+    width: 36cm;
+    box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+}
+.posimg{
+    position: absolute;
+}
+.sec-1{
+    padding-left: 1cm;
+    padding-right: 30px;
+}
+.sec-1 h5{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+  padding-top: 20px;
+  color:rgb(92, 93, 93);
+ padding-bottom: 10px;
+
+ font-size: 15px;
+ 
+}
+.sec-1 h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 25px;
+    padding-bottom: 12px;
+  
+}
+.sec-1 h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:lighter;
+    color: rgb(101, 101, 102);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.sec-1 a{
+    color: brown;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 13px;
+    /* padding-top: 15px; */
+}
+.sec-2 img{
+    height:8.5cm;
+    width: 18cm;
+}
+.pos-4{
+    display: flex;
+    /* margin: 20px; */
+    margin-left: 40px;
+    margin-top: 3cm;
+    margin-bottom: 2cm;
+   
+}
+.con-1{
+    margin-left: 1cm;
+    width: 12cm;
+    box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+}
+.con-1 img{ 
+    width: 12cm;
+}
+ h4{
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    color: rgb(101, 101, 102);
+    padding-bottom: 6px;
+    margin-top: 5px;
+    padding:15px
+    
+}
+h5{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:500;
+    font-size: 15px;
+    padding-left: 25px;
+    padding-bottom: 1cm;
+    line-height: 20px;
+}
+.con-2{
+    width: 11cm;
+    margin-left: 1cm;
+    box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+}
+.con-2 img{
+    width: 11cm;
+}
+.con-3{
+    margin-right: 1cm;
+    margin-left: 1cm;
+    box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px -1px 13px -4px rgba(0,0,0,0.75);
+}
+.pos-5{
+    background-image: url(ducati/ducati-6.jpg);
+    height: 15cm;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+}
+.pos-5 h3{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 27px;
+    font-weight:500;
+    padding-top: 2cm;
+    padding-left: 3cm;
+
+}
+.pos-5 h4{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:500;
+    padding-left: 3cm;
+    line-height: 1.6;
+}
+.pos-5 button{
+    margin-top: 5.5cm;
+    margin-left: 3cm;
+    padding: 17px;
+    background-color: rgb(233, 61, 61);
+    border: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.pos-6{
+    display: flex;
+    margin-left: 2.5cm;
+    margin-top: 2cm;
+    height: 8.5cm;
+    width: 36cm;
+    box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+    
+}
+.cont-1{
+    padding-left: 1cm;
+    padding-right: 30px;
+    }
+    .cont-1 h5{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: lighter;
+        padding-top: 20px;
+        color:rgb(92, 93, 93);
+       padding-bottom: 10px;
+      
+       font-size: 15px;
+    }
+    .cont-1 h1{
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 25px;
+    padding-bottom: 12px;
+      
+    }
+    .cont-1 h3{
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:lighter;
+    color: rgb(101, 101, 102);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    }
+    .cont-1 a{
+        color: brown;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 13px;
+    }
+   
+
+.pos-7{
+    background-image: url(ducati/ducati-8.png);
+    height: 15cm;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-top: 3cm;
+}
+.pos-7 h3{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 27px;
+    font-weight:500;
+    padding-top: 2cm;
+    padding-left: 3cm;
+
+}
+.pos-7 h4{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:500;
+    padding-left: 3cm;
+    line-height: 1.6;
+}
+.pos-7 button{
+    margin-top: 5.5cm;
+    margin-left: 3cm;
+    padding: 17px;
+    background-color: rgb(233, 61, 61);
+    border: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.pos-8{
+    background-image: url(ducati/ducati-9.jpg);
+    height: 15cm;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-top: 3cm;
+}
+.pos-8 h3{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 27px;
+    font-weight:500;
+    padding-top: 2cm;
+    padding-left: 3cm;
+
+}
+.pos-8 h4{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:500;
+    padding-left: 3cm;
+    line-height: 1.6;
+}
+.pos-8 button{
+    margin-top: 5.5cm;
+    margin-left: 3cm;
+    padding: 17px;
+    background-color: rgb(233, 61, 61);
+    border: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.pos-9{
+    display: flex;
+    margin-left: 2.5cm;
+    margin-top: 3cm;
+    height: 8.5cm;
+    width: 36cm;
+    box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+}
+.program-1{
+    padding-left: 1cm;
+    padding-right: 30px;
+    }
+    .program-1 h5{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: lighter;
+        padding-top: 20px;
+        color:rgb(92, 93, 93);
+       padding-bottom: 10px;
+      
+       font-size: 15px;
+    }
+.program-1 h1{
+     font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 25px;
+    padding-bottom: 12px;
+  
+}
+.program-1 h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:lighter;
+    color: rgb(101, 101, 102);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.program-1 a{
+    color: brown;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 13px;
+}
+.program-2 img{
+    height:8.5cm;
+    width: 18cm;
+}
+.pos-10{
+    background-image: url(ducati/Ducati-11.jpg);
+    height: 15cm;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-top: 2cm;
+}
+.pos-10 h3{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 27px;
+    font-weight:500;
+    padding-top: 2cm;
+    padding-left: 3cm;
+
+}
+.pos-10 h4{
+    color: rgb(224, 220, 220);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:500;
+    padding-left: 3cm;
+    line-height: 1.6;
+}
+.pos-10 button{
+    margin-top: 5.5cm;
+    margin-left: 3cm;
+    padding: 17px;
+    background-color: rgb(233, 61, 61);
+    border: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.pos-11{
+    display: flex;
+    margin-left: 2.5cm;
+    margin-top: 3cm;
+    height: 8.5cm;
+    width: 36cm;
+    box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -8px -1px 13px -4px rgba(0,0,0,0.75);
+}
+.Accessories-1{
+    padding-left: 1cm;
+    padding-right: 120px;
+    }
+    .Accessories-1 h5{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: lighter;
+        padding-top: 20px;
+        color:rgb(92, 93, 93);
+       padding-bottom: 10px;
+      
+       font-size: 15px;
+    }
+.Accessories-1 h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 25px;
+    padding-bottom: 12px;
+  
+}
+.Accessories-1 h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight:lighter;
+    color: rgb(101, 101, 102);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.Accessories-1 a{
+    color: brown;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    font-size: 13px;
+   
+}
+.Accessories-2 img{
+    height:8.5cm;
+    width: 18cm;
+}
+.pos-12{
+    width: 15cm;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-left: 11cm;
+    margin-top: 3cm;
+}
+.sub-1 h2{
+    font-weight: lighter;
+    margin-bottom: 25px;
+    text-align: center;
+    
+}
+.sub-1 h5{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  font-size: 12px;
+  color: rgb(101, 101, 102);
+  padding-bottom: 10px;
+  text-align: center;
+}
+.sub-2{
+    text-align: center;
+    margin-top: 1cm;
+}
+.sub-2 input{
+    width: 8cm;
+   
+    padding: 13px 13px;
+}
+.sub-2 button{
+    padding: 13px 13px;
+    background-color: red;
+    color: aliceblue;
+    border: none;
+}
+footer{
+    background-color: black;
+    margin-top: 2cm;
+}
+.footer-1{
+    display: flex;
+   padding-top: 2cm;
+   padding-left: 12cm;
+   
+}
+.foot-2{
+    color: white;
+    padding-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    
+    
+}
+.foot-2 h3{
+    color: rgb(101, 101, 102);
+}
+.footer-2{
+    margin-left: 10cm;
+    margin-top: 1cm;
+}
+.footer-2 h6{
+    text-align: center;
+    color: rgb(101, 101, 102);
+    font-size: 15px;
+    margin-top: 40px;
+    width: 17cm;
+}
+.footer-2 a{
+    color: rgb(101, 101, 102);
+    text-decoration: none;
+    margin-left: 1cm;
+  
+}
+.footer-3{
+    margin-left: 3cm;
+    margin-top: 1cm;
+    padding-bottom: 2cm;
+    
+}
+.footr-1{
+    margin-left: 6px;
+}
+.footr-2{
+    padding-right: 7cm;
+} 
+
+.footr-3{
+    padding-right: 7cm;
+}
